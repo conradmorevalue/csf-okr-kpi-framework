@@ -1,6 +1,6 @@
 ---
 name: csf-okr-kpi-framework
-description: Explain and apply Critical Success Factors (CSFs), OKRs, and KPIs as an integrated strategy system. Use when users mention OKRs, KPIs, CSFs, critical success factors, combining goal frameworks, strategy alignment, performance metrics hierarchy, how CSFs relate to objectives and key results, best practices for focused growth, or request examples, structures, reviews, or help defining CSFs/OKRs/KPIs for a business or team.
+description: Explain and apply Critical Success Factors (CSFs), OKRs, and KPIs as an integrated strategy system, plus the Wheel of Strategy with 20 essential CEO questions for purpose, market, goals, and actions. Use when users mention OKRs, KPIs, CSFs, critical success factors, strategy alignment, strategy clarity, CEO questions, Wheel of Strategy, performance metrics hierarchy, how CSFs relate to objectives and key results, best practices for focused growth, or request examples, structures, reviews, or help defining CSFs/OKRs/KPIs for a business or team.
 ---
 
 # CSF / OKR / KPI Framework
@@ -94,9 +94,51 @@ When generating examples, always show the three layers linked, never isolated li
 - Keep language practical and CEO/leader-friendly — no academic jargon.
 - When useful, offer a one-page “cheat sheet” style summary in markdown or point users to the printable PDF template.
 
+## Wheel of Strategy — 20 Essential Questions for CEOs
+
+70% of CEOs say their strategy is clear. Only 10% of their teams agree. That gap is where misalignment lives, priorities get lost, and momentum dies. Real alignment does not come from louder messaging — it comes from sharper thinking.
+
+Use the Wheel of Strategy to force clarity across four areas. Answer these 20 questions with the team (leadership meeting, quarterly reset, or offsite). If the team cannot answer them confidently and consistently, go back to the strategy table.
+
+### 🧭 Purpose & Direction
+1. Why do we exist? Who actually needs us?
+2. What’s our mission in one clear sentence?
+3. What do we believe that drives how we operate?
+4. Where do we want to be in 3 years?
+5. What would success look like if nothing held us back?
+
+### 📊 Market & Advantage
+6. Who is our highest-value customer?
+7. What pain are they feeling every day?
+8. What’s changing in our industry? How do we stay ahead?
+9. Why do people choose us—or not?
+10. What can we offer that’s hard to copy?
+
+### 📈 Goals & Metrics
+11. What are our top 3 priorities right now?
+12. What does success look like this quarter?
+13. What’s the one number that matters most today?
+14. How do we review progress each week?
+15. What milestone will tell us we’re winning?
+
+### ⚙️ Actions & Tactics
+16. What must we deliver in the next 90 days?
+17. Who owns each outcome? By when?
+18. What’s currently blocked? How do we fix it fast?
+19. What quick wins will build momentum now?
+20. When and how will we check in and adjust?
+
+**How this connects to the CSF / OKR / KPI system**  
+- Purpose & Direction + Market & Advantage → feed the CSFs (what is truly critical to win).  
+- Goals & Metrics → directly shape the OKRs and the selection of KPIs.  
+- Actions & Tactics → turn the OKRs into owned, time-bound execution with weekly review.  
+
+Use the 20 questions as a diagnostic filter before (or while) defining CSFs, OKRs, and KPIs. If the answers are vague or inconsistent across the team, the hierarchy will be built on sand.
+
 ## References & Assets
 
-- **One-page printable PDF template** (recommended for workshops / leadership sessions): `assets/csf-okr-kpi-one-page-template.pdf` (generate with the script below)
+- **One-page printable PDF template** (recommended for workshops / leadership sessions): `assets/csf-okr-kpi-one-page-template.pdf`
 - Markdown cascade template (editable): `assets/cascade-template.md`
 - Detailed cascade templates and additional industry examples: `references/examples-and-templates.md`
 - Common pitfalls and diagnostic questions: `references/diagnostics.md`
+- Wheel of Strategy 20 questions (above) — use as the clarity filter for the entire system
